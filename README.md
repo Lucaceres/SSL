@@ -1,2 +1,9 @@
-# SSL
-Repositorio público y personal para entrega de Trabajos de Sintaxis y semántica de los Lenguajes.
+# Sintaxis y semántica de los Lenguajes 2023
+
+##*Curso: *K2006
+
+##*Nombre: *Lucas
+
+##*Apellido: *Caceres
+
+##*Legajo: *1728830
