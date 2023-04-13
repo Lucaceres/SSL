@@ -1,9 +1,9 @@
 # Sintaxis y semántica de los Lenguajes 2023
 
-##*Curso: *K2006
+## *Curso: *K2006
 
-##*Nombre: *Lucas
+## *Nombre: *Lucas
 
-##*Apellido: *Caceres
+## *Apellido: *Caceres
 
-##*Legajo: *1728830
+## *Legajo: *1728830
