@@ -1,1 +1,0 @@
-**Compilador seleccionado:**GCC 9.2.0
