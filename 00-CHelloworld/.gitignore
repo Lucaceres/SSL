@@ -1,2 +1,5 @@
 #Ignorar todo lo que tenga como extension .exe
-*.exe
+*
+
+!HelloWorld.txt
+!HelloWorld.c
