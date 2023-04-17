@@ -1,7 +1,7 @@
 # Trabajo n°0: "Hello, World!" en C
 
-### Nombre: Lucas
-### Apellido: Caceres
+## Nombre: Lucas
+## Apellido: Caceres
 ## Legajo: 1728830
 
 
@@ -16,10 +16,10 @@
 + Pruebas.
 
 **Problema**
-Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
++ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
 
 **Restricciones**
 
 + Ninguna
 
-Actualmente estoy usando gcc 9.5.0 
+Actualmente estoy usando gcc 9.5.0, compilando bajo el standard **C11** 
