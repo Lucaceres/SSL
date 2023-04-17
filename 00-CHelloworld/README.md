@@ -1,8 +1,8 @@
 # Trabajo n°0: "Hello, World!" en C
 
-## Nombre: Lucas
-## Apellido: Caceres
-## Legajo: 1728830
+### Nombre: Lucas
+### Apellido: Caceres
+### Legajo: 1728830
 
 
 **Objetivos**
@@ -22,4 +22,4 @@
 
 + Ninguna
 
-Actualmente estoy usando gcc 9.5.0, compilando bajo el standard **C11** 
+Actualmente estoy usando gcc 9.5.0, compilando bajo el standard **C11**. 
