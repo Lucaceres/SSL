@@ -3,7 +3,9 @@
 ### Nombre: Lucas
 ### Apellido: Caceres
 ### GitHub: [Lucaceres](https://github.com/Lucaceres)
-## Legajo: 1728830
+### Legajo: 172883-0
+
+*****
 
 
 **Objetivos**
@@ -17,7 +19,7 @@
 + Pruebas.
 
 **Problema**
-+ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.
++ Adquirir y preparar los recursos necesarios para resolver los trabajos del curso.
 
 **Restricciones**
 
