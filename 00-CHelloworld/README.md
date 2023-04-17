@@ -1,4 +1,4 @@
-# Trabajo n°0: "Hello, World!" en C
+# Trabajo N°0: "Hello, World!" en C
 
 ### Nombre: Lucas
 ### Apellido: Caceres
