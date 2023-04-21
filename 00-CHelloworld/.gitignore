@@ -1,6 +1,0 @@
-#Ignorar todo lo que tenga como extension .exe
-*
-
-!HelloWorld.txt
-!HelloWorld.c
-!README.md
