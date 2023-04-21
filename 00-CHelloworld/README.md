@@ -25,4 +25,4 @@
 
 + Ninguna
 
-Actualmente estoy usando gcc 9.5.0, compilando bajo el standard **C11**. 
+Actualmente estoy usando gcc 9.5.0, compilando bajo el standard **C11** (ISO/IEC 9899:2011). 
